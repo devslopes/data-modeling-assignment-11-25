@@ -12,9 +12,11 @@
 
 ## Introduction
 
-Here's an app that Instructor Jon built called [GloomTyper](https://gloomtyper-2-0.vercel.app). It's just a simple typing test game. Your job is to do your best to model the data for this application (We're not going to tell you what the data is, you have to guess based off how the app works).
+Here's an app that Instructor Jon built called GloomTyper. It's just a simple typing test game. Take a moment to explore the page and play with the application.
 
-So please, click around the app, take a few typing tests, and then come up with your best guess at how the data is modeled in the application.
+Your job is to model the data that makes this app run. Keep in mind, the typing, timer, and other minor browser details are not going to be stored in the database. However, the Categories, Authors, and Quotes on the top right will be!
+
+Your task is to model the database data in an SQL diagram. Be sure to mark separate tables clearly, show which values live in which tables, and indicate the relationships between tables (1-1, 1-Many, Many-Many.)
 
 ## To Submit
 
