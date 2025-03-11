@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Here's an app that Instructor Jon built called GloomTyper. It's just a simple typing test game. Take a moment to explore the page and play with the application.
+Here's an app that Instructor Jon built called [GloomTyper](https://gloomtyper-2-0.vercel.app). It's just a simple typing test game. Take a moment to explore the page and play with the application.
 
 Your job is to model the data that makes this app run. Keep in mind, the typing, timer, and other minor browser details are not going to be stored in the database. However, the Categories, Authors, and Quotes on the top right will be!
 
